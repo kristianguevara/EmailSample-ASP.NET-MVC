@@ -1,0 +1,17 @@
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\EmailSample.dll.config
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\EmailSample.dll
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\EmailSample.pdb
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Helpers.dll
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Mvc.dll
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Razor.dll
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Webpages.Deployment.dll
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Webpages.dll
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Webpages.Razor.dll
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Razor.xml
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Webpages.xml
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Webpages.Deployment.xml
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Webpages.Razor.xml
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Helpers.xml
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\bin\System.Web.Mvc.xml
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\obj\Debug\EmailSample.dll
+c:\users\cloudswyft\documents\visual studio 2013\Projects\EmailSample\EmailSample\obj\Debug\EmailSample.pdb

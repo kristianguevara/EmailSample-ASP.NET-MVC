@@ -1,0 +1,19 @@
+﻿@model EmailSample.Models.EmailModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@ViewBag.Message</h2>
+
+<h2>Email App</h2>
+
+@using (Html.BeginForm())
+{
+    <span>Subject: </span><input type="text" value="Test Subject" name="subject" /><br /><br />
+    <span>To: </span><input type="text" value="recieversemail@email.com" name="receiver" /><br/><br />
+    <span>From: </span><input type="text" value="sendersemail@email.com" name="sender" /><br/><br />
+    <span>Message: </span>
+    <textarea name="message">Hello there! This is my message</textarea><br/><br/>
+    <input type="submit" value="Send Email"/>
+}
+
